@@ -1,0 +1,23 @@
+.myc{
+    background-color:red;
+    /* width: 100%; */
+}
+.nav-link{
+    text-decoration: none;
+    color: white;
+}
+.nav-link:hover{
+    background-color: azure;
+    color: blueviolet;  
+}
+.dropdown:hover>.dropdown-menu{
+    display: block;
+    background-color: white;
+}
+.dropdown-menu{
+    background-color: red;
+}
+.dropdown-menu:hover{
+    background-color: white;
+
+}
